@@ -35,6 +35,8 @@ Read the downloaded Markdown file **in its entirety up to and including any "Dis
 
 **Read every single line.** Do not skip or skim any section of the main body. If the file is too long to read in one chunk, read it in multiple sequential chunks with the `offset` and `limit` parameters until you have covered the entire main body.
 
+**Reminder: read the whole post, even if the user's question seems narrow.** A targeted question is not a license to search for keywords and read only the matching sections. The full read is mandatory because load-bearing context for any one section is often established elsewhere, and keyword search will miss relevant content phrased in vocabulary you didn't think to search for. Do the full read first, then answer the narrow question. Do not skip ahead — unless the user has explicitly instructed you to skip parts of the post.
+
 **After reading, mentally enumerate the sections you covered and verify none were skipped.** If any main body sections are missing, go back and read them before proceeding.
 
 ### Part 4: Inspect all figures
